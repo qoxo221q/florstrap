@@ -26,5 +26,4 @@
 **A:** No, it shouldn't. Bloxstrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/bloxstraplabs/bloxstrap/wiki/Why-it's-not-reasonably-possibl
 
 ## Code signing policy
-
-Thanks to [SignPath.io](https://signpath.io/) for providing a free code signing service, and the [SignPath Foundation](https://signpath.org/) for providing the free code signing certificate.
+.
